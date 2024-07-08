@@ -7,9 +7,9 @@ Full Stack Developer
 I've learn coding for 2 year completed as full stack developer and love to learn new things in daily basic.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Follow Me Here](http://gunaDev.com)
+* 🖥️  See my portfolio at [Follow Me Here](http://github.com/gunaNeelamegam)
 * ✉️  You can contact me at [guna5127@gmail.com](mailto:guna5127@gmail.com)
-* 🚀  I'm previously worked in [Zilogic System](http://gunadev.com)
+* 🚀  I'm experienced in [Zilogic System](http://github.com/gunaNeelamegam)
 * 🧠  I'm learning Data Science
 * 🤝  I'm open to collaborating on React Native and React
 * ⚡  Life is an Mystery , Day change's Life may Change's
